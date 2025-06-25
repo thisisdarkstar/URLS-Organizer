@@ -1,5 +1,29 @@
 #!/usr/bin/env bash
 
+#!/usr/bin/env bash
+#
+# URLS-Organizer
+# ----------------
+# Organize a list of URLs or hostnames by their root domain, grouping all subdomains together.
+#
+# Author:      Your Name <your.email@example.com>
+# Repository:  https://github.com/yourusername/URLS-Organizer
+# License:     MIT
+# Version:     1.0.0
+# Date:        2025-06-25
+#
+# Usage:       ./script.sh input.txt
+#              cat input.txt | ./script.sh
+#
+# Description:
+#   - Extracts hostnames from URLs (handles protocols, ports, credentials, queries, fragments)
+#   - Groups subdomains under their root domain (supports SLDs like .co.uk)
+#   - Deduplicates subdomains
+#   - Skips IPs, localhost, and comments
+#   - Outputs each root domain as a folder with a subdomains.txt file
+#
+# ----------------
+
 set -o errexit
 set -o nounset
 set -o pipefail
