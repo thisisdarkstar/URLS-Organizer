@@ -4,7 +4,7 @@
 # ----------------
 # Organize a list of URLs or hostnames by their root domain, grouping all subdomains together.
 #
-# Author:      Your Name <your.email@example.com>
+# Author:      Darkstar thisisdarkstar@duck.com
 # Repository:  https://github.com/yourusername/URLS-Organizer
 # License:     MIT
 # Version:     1.0.0
