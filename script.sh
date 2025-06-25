@@ -5,7 +5,7 @@
 # Organize a list of URLs or hostnames by their root domain, grouping all subdomains together.
 #
 # Author:      Darkstar thisisdarkstar@duck.com
-# Repository:  https://github.com/yourusername/URLS-Organizer
+# Repository:  https://github.com/thisisdarkstar/URLS-Organizer
 # License:     MIT
 # Version:     1.0.0
 # Date:        2025-06-25
